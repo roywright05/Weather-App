@@ -1,0 +1,27 @@
+body{
+  background-color: #9aceff;
+  margin-left: 12px;
+}
+
+h1{
+  padding: 10px;
+  color: #f4eec7;
+  font-style: oblique;
+  font-family:sans-serif;
+}
+
+label{
+  color: #f4eec7;
+  font-style: oblique;
+  font-family:sans-serif;
+}
+
+button{
+  margin-left: 6px;
+}
+
+hr{
+
+  width: 12px;
+  background-color:  #fff;
+}
